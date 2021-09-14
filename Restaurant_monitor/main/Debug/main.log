@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\lehon\Desktop\project\Restaurant_monitor\main\Order.h(80,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lehon\Desktop\project\Restaurant_monitor\main\Order.h(93,27): warning C4018: '<': signed/unsigned mismatch
+  main.vcxproj -> C:\Users\lehon\Desktop\project\Restaurant_monitor\Debug\main.exe

@@ -1,0 +1,6 @@
+Coke	1.5
+Cocacola	1.5
+Pepsi	1.5
+Dr.Pepper	1.5
+Fresh Coconut Juice	4.25
+Lemonade	3

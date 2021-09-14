@@ -1,0 +1,15 @@
+Pho Brisket	7.5
+Pho Sliced Beef	8.5
+Pho Beef Ball	6.95
+Pho Mixed Vegetables	6.95
+Pho Chicken	6.95
+Pho Special	10
+Bun Bo Hue	6.95
+Canh Bun	6.95
+Grilled Pork with Rice Noolde	7.5
+Egg Roll and Grilled Pork with Rice Noodle	12.4
+Grilled Shrimp and Grilled Pork with Rice Noodle	7.5
+Grilled Shrimp with Rice Noodle	7.5
+Grilled Chicken with Rice Noodle	6.95
+Grilled Beef with Rice Noodle	8.5
+Bun Mam	10
